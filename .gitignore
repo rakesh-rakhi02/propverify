@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment and sensitive keys (NEVER commit secrets)
+.env
+.env.local
+
+# Build artifacts and cache
+artifacts/
+cache/
+
+# SQLite databases & user uploads
+backend/*.db
+backend/*.db-journal
+backend/uploads/*
+!backend/uploads/.gitkeep

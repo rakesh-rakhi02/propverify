@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pillow>=10.0
+imagehash>=4.3
+web3>=6.15
+python-dotenv>=1.0

@@ -1,0 +1,8 @@
+{
+  "Gachibowli": {"rent_psf": 31, "sale_psf": 8500, "lat": 17.4401, "lng": 78.3489},
+  "Madhapur":   {"rent_psf": 32, "sale_psf": 9000, "lat": 17.4483, "lng": 78.3915},
+  "Kondapur":   {"rent_psf": 26, "sale_psf": 7000, "lat": 17.4699, "lng": 78.3578},
+  "Kukatpally": {"rent_psf": 20, "sale_psf": 5500, "lat": 17.4849, "lng": 78.4138},
+  "Miyapur":    {"rent_psf": 18, "sale_psf": 5000, "lat": 17.4968, "lng": 78.3548},
+  "LB Nagar":   {"rent_psf": 15, "sale_psf": 5200, "lat": 17.3457, "lng": 78.5522}
+}

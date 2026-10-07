@@ -1,0 +1,17 @@
+{
+  "name": "propverify",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:sepolia": "node --use-system-ca ./node_modules/hardhat/internal/cli/cli.js run scripts/deploy.js --network sepolia",
+    "check-balance": "node --use-system-ca scripts/check-balance.js",
+    "start": "node scripts/start.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.10"
+  }
+}
